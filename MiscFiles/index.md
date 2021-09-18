@@ -3,7 +3,7 @@ title: Various Projects/Code Blocks
 description A mix of files.
 ---
 
-Here is a Fahrenheit to Celsius calulator I built.
-- [Temperature Calculator (html)](Temperature Calculator.html)
-- [Temperature Calculator (ipynb)](Temperature Calculator.ipynb)
+Here is a file that contains misc coding related to square root functions in Python.
+- [Sqr Conversion (html)](SqrConversion.html)
+- [Sqr Conversion (ipynb)](SqrConverison.ipynb)
 
