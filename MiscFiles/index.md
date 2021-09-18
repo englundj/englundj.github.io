@@ -4,6 +4,6 @@ description A mix of files.
 ---
 
 Here is a Fahrenheit to Celsius calulator I built.
-- [Temperature Calculator (html)](TemperatureCalculator.html)
-- [Temperature Calculator (ipynb)](TemperatureCalculator.ipynb)
+- [Temperature Calculator (html)](Temperature Calculator.html)
+- [Temperature Calculator (ipynb)](Temperature Calculator.ipynb)
 
