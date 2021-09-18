@@ -1,6 +1,6 @@
 ---
 title: New Title
-desciption: The titles and descriptions can be changed.
+description: The titles and descriptions can be changed.
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
